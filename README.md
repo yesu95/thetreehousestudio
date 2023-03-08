@@ -2,14 +2,14 @@ Poyecto realizado con HTML, CSS, JavaScript y jQuery. Realizado desde 0, tanto e
 
 Tareas que he realizado:
 
-· Diseño en Figma
-· Maquetación de elementos
-· Optimización de imágenes para web
-· Carrusel de vídeos
-· Formulario de contacto
-· Aviso de cookies
-· Gestión del hosting
+<ul>
+  <li>Diseño en Figma</li>
+  <li>Maquetación de elementos</li>
+  <li>Optimización de imágenes para web</li>
+  <li>Carrusel de vídeos</li>
+  <li>Formulario de contacto</li>
+  <li>Aviso de cookies</li>
+  <li>Gestión del hosting</li>
+</ul> 
 
-<video class="video" playsinline="" autobuffer="" autoplay="" muted="" loop="" preload="auto">
-  <source src="../img/treehouse.mp4" type="video/mp4">
-</video>
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/99554727/223588394-bfffe1bc-c5f2-4059-aef7-13f0e95b1126.gif)
