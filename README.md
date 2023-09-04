@@ -5,7 +5,7 @@ Poyecto realizado con HTML, CSS, JavaScript y jQuery. Realizado desde 0, tanto e
 Tareas que he realizado:
 
 <ul>
-  <li>Diseño en Figma</li>
+  <li style="font-size:50px;">Diseño en Figma</li>
   <li>Maquetación de elementos</li>
   <li>Optimización de imágenes para web</li>
   <li>Carrusel de vídeos</li>
