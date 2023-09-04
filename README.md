@@ -22,6 +22,8 @@ Proyecto realizado desde cero, centrado en el diseño y la maquetación de un es
   <img width="100%" src="https://github.com/yesu95/thetreehousestudio/assets/99554727/2d9f7b74-31e3-4308-9734-88d08a24ae1d">
 </p>
 
+## Diseño Responsive
+
 <p align="center" width="100%">
       <img width="33%" src="https://github.com/yesu95/thetreehousestudio/assets/99554727/88aeb053-16a1-42c0-97ff-c432a19ffca3" width="150">
       <img width="33%" src="https://github.com/yesu95/thetreehousestudio/assets/99554727/6e7ba7d2-7482-4f89-9368-04e4172cb079" width="150">
