@@ -2,6 +2,7 @@
 
 Proyecto realizado desde cero, centrado en el diseño y la maquetación de un estudio de grabación independiente. Utilicé HTML, CSS, JavaScript y jQuery para crear una experiencia completa.
 
+<p align="center" width="100%">
 ### Tareas que he realizado:
 
 <ul>
@@ -13,6 +14,8 @@ Proyecto realizado desde cero, centrado en el diseño y la maquetación de un es
   <li>Aviso de cookies</li>
   <li>Gestión del hosting</li>
 </ul> 
+
+</p>
 
 <p align="center" width="100%">
   <img width="70%" src="https://user-images.githubusercontent.com/99554727/223588394-bfffe1bc-c5f2-4059-aef7-13f0e95b1126.gif">
