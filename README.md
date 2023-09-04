@@ -15,11 +15,11 @@ Tareas que he realizado:
 </ul> 
 
 <p align="center" width="100%">
-  <img src="https://user-images.githubusercontent.com/99554727/223588394-bfffe1bc-c5f2-4059-aef7-13f0e95b1126.gif">
+  <img width="700" src="https://user-images.githubusercontent.com/99554727/223588394-bfffe1bc-c5f2-4059-aef7-13f0e95b1126.gif">
 </p>
 
 <p align="center" width="100%">
-  <img src="https://github.com/yesu95/thetreehousestudio/assets/99554727/2d9f7b74-31e3-4308-9734-88d08a24ae1d">
+  <img width="700" src="https://github.com/yesu95/thetreehousestudio/assets/99554727/2d9f7b74-31e3-4308-9734-88d08a24ae1d">
 </p>
 
 
