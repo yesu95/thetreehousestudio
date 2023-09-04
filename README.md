@@ -1,6 +1,6 @@
 ### The TreeHouse Studio
 
-Poyecto realizado con HTML, CSS, JavaScript y jQuery. Realizado desde 0, tanto el diseño como la maquetación de un estudio de grabación independiente.
+Proyecto realizado desde cero, centrado en el diseño y la maquetación de un estudio de grabación independiente. Utilicé HTML, CSS, JavaScript y jQuery para crear una experiencia completa.
 
 Tareas que he realizado:
 
