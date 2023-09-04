@@ -1,8 +1,8 @@
-### The TreeHouse Studio
+# The TreeHouse Studio
 
 Proyecto realizado desde cero, centrado en el diseño y la maquetación de un estudio de grabación independiente. Utilicé HTML, CSS, JavaScript y jQuery para crear una experiencia completa.
 
-## Tareas que he realizado:
+### Tareas que he realizado:
 
 <ul>
   <li>Diseño en Figma</li>
